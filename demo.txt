@@ -1,2 +1,4 @@
 this is git hub learning demo session.
 learning git and git hub.
+creating a line and testing
+deleting a duplicate line.
